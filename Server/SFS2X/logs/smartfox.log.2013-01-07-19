@@ -1,0 +1,142 @@
+07 ene 2013 | 19:36:45,521 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 1, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54055 } on Server port: 9933 <---> 54055
+07 ene 2013 | 19:36:45,638 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 1, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54055 }
+07 ene 2013 | 19:36:45,708 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 2, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54056 } on Server port: 9933 <---> 54056
+07 ene 2013 | 19:36:46,083 | WARN  | pool-1-thread-3 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:36:46,240 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 2, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54056 }
+07 ene 2013 | 19:36:50,357 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 3, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54057 } on Server port: 9933 <---> 54057
+07 ene 2013 | 19:36:50,396 | WARN  | pool-1-thread-4 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:36:50,521 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 3, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54057 }
+07 ene 2013 | 19:36:53,427 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 4, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54058 } on Server port: 9933 <---> 54058
+07 ene 2013 | 19:36:53,498 | WARN  | pool-1-thread-1 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:36:53,607 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 4, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54058 }
+07 ene 2013 | 19:36:58,083 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 5, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54060 } on Server port: 9933 <---> 54060
+07 ene 2013 | 19:36:58,146 | WARN  | pool-1-thread-2 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:36:58,271 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 5, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54060 }
+07 ene 2013 | 19:37:01,880 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 6, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54061 } on Server port: 9933 <---> 54061
+07 ene 2013 | 19:37:01,896 | WARN  | pool-1-thread-3 | entities.managers.SFSExten07 ene 2013 | 19:47:16,941 | WARN  | pool-1-thread-3 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid TCP port
+essionManager |     | Session removed: { Id: 6, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54061 }
+07 ene 2013 | 19:37:06,208 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 7, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54062 } on Server port: 9933 <---> 54062
+07 ene 2013 | 19:37:06,263 | WARN  | pool-1-thread-4 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:37:06,404 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 7, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54062 }
+07 ene 2013 | 19:37:10,294 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 8, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54064 } on Server port: 9933 <---> 54064
+07 ene 2013 | 19:37:10,326 | WARN  | pool-1-thread-1 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:37:10,435 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 8, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54064 }
+07 ene 2013 | 19:37:19,623 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 9, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54065 } on Server port: 9933 <---> 54065
+07 ene 2013 | 19:37:19,669 | WARN  | pool-1-thread-2 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:37:19,826 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 9, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54065 }
+07 ene 2013 | 19:37:24,841 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 10, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54067 } on Server port: 9933 <---> 54067
+07 ene 2013 | 19:37:24,896 | INFO  | pool-1-thread-3 | v2.api.SFSApi |     | Login in, { Zone: --=={{{ AdminZone }}}==-- }, ( User Name: sfsadmin, Id: 0, Priv: 0, Sess: 127.0.0.1:54067 ) 
+07 ene 2013 | 19:42:48,697 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 11, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54170 } on Server port: 9933 <---> 54170
+07 ene 2013 | 19:42:52,931 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 11, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54170 }
+07 ene 2013 | 19:46:21,886 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 10, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:54067 }
+07 ene 2013 | 19:46:21,886 | INFO  | SocketReader | v2.entities.SFSZone |     | User: sfsadmin was disconnected.
+07 ene 2013 | 19:46:21,886 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: sfsadmin, Id: 0, Priv: 0, Sess: 127.0.0.1:54067 ) 
+07 ene 2013 | 19:46:25,535 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 12, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54302 } on Server port: 9933 <---> 54302
+07 ene 2013 | 19:46:25,542 | WARN  | pool-1-thread-3 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:46:25,691 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 12, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54302 }
+07 ene 2013 | 19:46:28,402 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 13, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54303 } on Server port: 9933 <---> 54303
+07 ene 2013 | 19:46:28,410 | WARN  | pool-1-thread-4 | entities.managers.SFSExtensionManager |     | com.smartfoxserver.v2.exceptions.SFSLoginException: Admin login refused to user 'sfsadmin': invalid credentials
+07 ene 2013 | 19:46:28,519 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 13, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54303 }
+07 ene 2013 | 19:46:31,777 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 14, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54304 } on Server port: 9933 <---> 54304
+07 ene 2013 | 19:46:31,800 | INFO  | pool-1-thread-1 | v2.api.SFSApi |     | Login in, { Zone: --=={{{ AdminZone }}}==-- }, ( User Name: sfsadmin, Id: 1, Priv: 0, Sess: 127.0.0.1:54304 ) 
+07 ene 2013 | 19:47:04,207 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-3 | Extensions |     | {Admin}: Restarting SmartFoxServer... 
+07 ene 2013 | 19:47:04,207 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-3 | smartfoxserver.v2.SmartFoxServer |     | *** SERVER RESTARTING ***
+07 ene 2013 | 19:47:05,667 | WARN  | SocketWriter-1 | bitswarm.core.SocketWriter |     | SocketWriter thread interrupted: Thread[SocketWriter-1,5,main]
+07 ene 2013 | 19:47:08,167 | WARN  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.controllers.SystemController |     | Controller main loop was interrupted
+07 ene 2013 | 19:47:08,167 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-3 | v2.controllers.SystemController |     | Controller stopping: com.smartfoxserver.v2.controllers.SystemController, Unprocessed tasks: 0
+07 ene 2013 | 19:47:08,167 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-3 | v2.controllers.ExtensionController |     | Controller stopping: com.smartfoxserver.v2.controllers.ExtensionController, Unprocessed tasks: 0
+07 ene 2013 | 19:47:08,167 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-2 | v2.controllers.ExtensionController |     | Controller main loop was interrupted
+07 ene 2013 | 19:47:08,167 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-1 | v2.controllers.ExtensionController |     | Controller main loop was interrupted
+07 ene 2013 | 19:47:08,167 | WARN  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.controllers.SystemController |     | 
+java.lang.InterruptedException
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	java.util.concurrent.PriorityBlockingQueue.take(Unknown Source)
+	com.smartfoxserver.bitswarm.controllers.AbstractController.run(AbstractController.java:95)
+	java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+
+07 ene 2013 | 19:47:08,167 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-3 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 14, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:54304 }
+07 ene 2013 | 19:47:08,167 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-1 | v2.controllers.ExtensionController |     | 
+java.lang.InterruptedException
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	java.util.concurrent.PriorityBlockingQueue.take(Unknown Source)
+	com.smartfoxserver.bitswarm.controllers.AbstractController.run(AbstractController.java:95)
+	java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+
+07 ene 2013 | 19:47:08,167 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-2 | v2.controllers.ExtensionController |     | 
+java.lang.InterruptedException
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	java.util.concurrent.PriorityBlockingQueue.take(Unknown Source)
+	com.smartfoxserver.bitswarm.controllers.AbstractController.run(AbstractController.java:95)
+	java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+
+07 ene 2013 | 19:47:08,167 | INFO  | SocketAcceptor-1 | bitswarm.core.SocketAcceptor |     | I/O Error during accept loop: null
+07 ene 2013 | 19:47:09,863 | INFO  | :::SFSRestarter::: | v2.util.SFSRestart |     | Process restarted: java.lang.ProcessImpl@11af848
+07 ene 2013 | 19:47:13,871 | INFO  | Thread-1 | entities.managers.SFSZoneManager |     | BuddyList saveAll...
+07 ene 2013 | 19:47:13,871 | WARN  | SFS2X ShutdownHook | v2.core.SFSShutdownHook |     | SFS2X is shutting down. The process may take a few seconds...
+07 ene 2013 | 19:47:13,894 | INFO  | Thread-2 | entities.managers.SFSBannedUserManager |     | BanUser data saved.
+__|__|  |_____|  |___|__|__|  |_____|_____|_____| |_|
+
+07 ene 2013 | 19:47:11,128 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License code not found, starting Community Edition license
+07 ene 2013 | 19:47:11,128 | INFO  | main | v2.core.SFSEventManager |     | AnonymousService-1 initalized
+07 ene 2013 | 19:47:15,011 | INFO  | main | vfs.impl.DefaultFileReplicator |     | Using "C:\Windows\TEMP\vfs_cache" as temporary files store.
+07 ene 2013 | 19:47:15,089 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License loaded:
+
+===================================
+LICENSE DETAILS
+-----------------------------------
+Type            : Community Edition
+Max users       : 100
+===================================
+
+07 ene 2013 | 19:47:15,089 | INFO  | main | entities.managers.SFSBannedUserStorage |     | BanUserStorage initialized
+07 ene 2013 | 19:47:15,097 | INFO  | main | entities.managers.SFSBannedUserManager |     | BanUser data loaded: 0 records.
+07 ene 2013 | 19:47:15,113 | INFO  | main | v2.config.SFSConfigurator |     | Loading: zones\BasicExamples.zone.xml
+07 ene 2013 | 19:47:15,136 | INFO  | main | entities.managers.SFSZoneManager |     | 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ >> Zone: BasicExamples 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+07 ene 2013 | 19:47:15,160 | INFO  | main | entities.managers.SFSZoneManager |     | Creating room: (default) The Lobby
+07 ene 2013 | 19:47:15,167 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: The Lobby, Id: 0, Group: default, isGame: false ]
+07 ene 2013 | 19:47:15,175 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: AdminRoom, Id: 1, Group: default, isGame: false ]
+07 ene 2013 | 19:47:15,191 | INFO  | main | v2.core.AdminToolService |     | AdminTool Service started
+07 ene 2013 | 19:47:16,996 | INFO  | main | v2.http.SFSHttpServer |     | Http Server started.
+07 ene 2013 | 19:47:17,058 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Listening Sockets: { 127.0.0.1:9933, (Tcp) } { 127.0.0.1:9933, (Udp) } 
+07 ene 2013 | 19:47:17,058 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     |  
+ _____ _____ _____    ___ __ __ 
+|   __|   __|   __|  |_  |  |  |
+|__   |   __|__   |  |  _|-   -|
+|_____|__|  |_____|  |___|__|__|                                         
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ 2.0.1 ] 
+
+07 ene 2013 | 19:47:17,066 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | SmartFoxServer 2X (2.0.1) READY!
+07 ene 2013 | 19:47:29,519 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 1, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54333 } on Server port: 9933 <---> 54333
+07 ene 2013 | 19:48:27,058 | INFO  | Scheduler1-thread-1 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 1, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54333 }
+07 ene 2013 | 19:48:27,058 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 2, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54360 } on Server port: 9933 <---> 54360
+07 ene 2013 | 19:48:27,808 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 3, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54361 } on Server port: 9933 <---> 54361
+07 ene 2013 | 19:48:27,816 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 3, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54361 }
+07 ene 2013 | 19:48:27,839 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 4, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54362 } on Server port: 9933 <---> 54362
+07 ene 2013 | 19:48:27,902 | INFO  | pool-1-thread-3 | v2.api.SFSApi |     | Login in, { Zone: --=={{{ AdminZone }}}==-- }, ( User Name: sfsadmin, Id: 0, Priv: 0, Sess: 127.0.0.1:54362 ) 
+07 ene 2013 | 19:48:45,055 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 5, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54365 } on Server port: 9933 <---> 54365
+07 ene 2013 | 19:48:51,297 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 5, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54365 }
+07 ene 2013 | 19:48:55,915 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 6, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54367 } on Server port: 9933 <---> 54367
+07 ene 2013 | 19:49:00,094 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 6, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54367 }
+07 ene 2013 | 19:49:03,907 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 7, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54369 } on Server port: 9933 <---> 54369
+07 ene 2013 | 19:49:27,063 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 2, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54360 }
+07 ene 2013 | 19:49:27,063 | INFO  | Scheduler1-thread-1 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 2, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54360 }
+07 ene 2013 | 19:49:27,063 | INFO  | SocketReader | bitswarm.core.SocketReader |     | Socket closed: java.nio.channels.SocketChannel[closed]
+07 ene 2013 | 19:49:33,813 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 7, Type: DEFAULT, Logged: No, IP: 127.0.0.1:54369 }

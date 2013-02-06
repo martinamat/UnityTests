@@ -1,0 +1,10 @@
+07 ene 2013 | 23:01:20,100 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 5, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:57338 }
+07 ene 2013 | 23:01:20,108 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 23:01:20,108 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 2, Priv: 0, Sess: 127.0.0.1:57338 ) 
+07 ene 2013 | 23:07:09,686 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 6, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57668 } on Server port: 9933 <---> 57668
+07 ene 2013 | 23:07:09,725 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 6, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57668 }
+07 ene 2013 | 23:07:09,741 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 7, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57669 } on Server port: 9933 <---> 57669
+07 ene 2013 | 23:07:09,803 | INFO  | pool-1-thread-1 | v2.api.SFSApi |     | Login in, { Zone: --=={{{ AdminZone }}}==-- }, ( User Name: sfsadmin, Id: 3, Priv: 0, Sess: 127.0.0.1:57669 ) 
+07 ene 2013 | 23:08:43,682 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 7, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:57669 }
+07 ene 2013 | 23:08:43,682 | INFO  | SocketReader | v2.entities.SFSZone |     | User: sfsadmin was disconnected.
+07 ene 2013 | 23:08:43,682 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: sfsadmin, Id: 3, Priv: 0, Sess: 127.0.0.1:57669 ) 

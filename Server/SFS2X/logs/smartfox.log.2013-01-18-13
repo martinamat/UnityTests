@@ -1,0 +1,138 @@
+18 ene 2013 | 13:29:43,780 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Boot sequence starts...
+18 ene 2013 | 13:29:44,217 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|   __|   __|   __|  |_  |  |  |  | __  |     |     |_   _|
+|__   |   __|__   |  |  _|-   -|  | __ -|  |  |  |  | | |  
+|_____|__|  |_____|  |___|__|__|  |_____|_____|_____| |_|
+
+18 ene 2013 | 13:30:29,862 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License code not found, starting Community Edition license
+18 ene 2013 | 13:30:29,863 | INFO  | main | v2.core.SFSEventManager |     | AnonymousService-1 initalized
+18 ene 2013 | 13:30:30,424 | INFO  | main | vfs.impl.DefaultFileReplicator |     | Using "C:\Windows\TEMP\vfs_cache" as temporary files store.
+18 ene 2013 | 13:30:34,860 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License loaded:
+
+===================================
+LICENSE DETAILS
+-----------------------------------
+Type            : Community Edition
+Max users       : 100
+===================================
+
+18 ene 2013 | 13:30:34,865 | INFO  | main | entities.managers.SFSBannedUserStorage |     | BanUserStorage initialized
+18 ene 2013 | 13:30:34,990 | INFO  | main | entities.managers.SFSBannedUserManager |     | BanUser data loaded: 0 records.
+18 ene 2013 | 13:30:35,206 | INFO  | main | v2.config.SFSConfigurator |     | Loading: zones\BasicExamples.zone.xml
+18 ene 2013 | 13:30:35,574 | INFO  | main | entities.managers.SFSZoneManager |     | 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ >> Zone: BasicExamples 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+18 ene 2013 | 13:30:35,869 | INFO  | main | entities.managers.SFSZoneManager |     | Creating room: (default) The Lobby
+18 ene 2013 | 13:30:36,000 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: The Lobby, Id: 0, Group: default, isGame: false ]
+18 ene 2013 | 13:30:36,231 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: AdminRoom, Id: 1, Group: default, isGame: false ]
+18 ene 2013 | 13:30:36,241 | INFO  | main | v2.core.AdminToolService |     | AdminTool Service started
+18 ene 2013 | 13:30:58,779 | INFO  | main | v2.http.SFSHttpServer |     | Http Server started.
+18 ene 2013 | 13:30:59,023 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Listening Sockets: { 127.0.0.1:9933, (Tcp) } { 127.0.0.1:9933, (Udp) } 
+18 ene 2013 | 13:30:59,026 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     |  
+ _____ _____ _____    ___ __ __ 
+|   __|   __|   __|  |_  |  |  |
+|__   |   __|__   |  |  _|-   -|
+|_____|__|  |_____|  |___|__|__|                                         
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ 2.0.1 ] 
+
+18 ene 2013 | 13:30:59,031 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | SmartFoxServer 2X (2.0.1) READY!
+18 ene 2013 | 13:36:01,892 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Boot sequence starts...
+18 ene 2013 | 13:36:02,815 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|   __|   __|   __|  |_  |  |  |  | __  |     |     |_   _|
+|__   |   __|__   |  |  _|-   -|  | __ -|  |  |  |  | | |  
+|_____|__|  |_____|  |___|__|__|  |_____|_____|_____| |_|
+
+18 ene 2013 | 13:36:42,420 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License code not found, starting Community Edition license
+18 ene 2013 | 13:36:42,421 | INFO  | main | v2.core.SFSEventManager |     | AnonymousService-1 initalized
+18 ene 2013 | 13:36:42,645 | INFO  | main | vfs.impl.DefaultFileReplicator |     | Using "C:\Windows\TEMP\vfs_cache" as temporary files store.
+18 ene 2013 | 13:36:47,944 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License loaded:
+
+===================================
+LICENSE DETAILS
+-----------------------------------
+Type            : Community Edition
+Max users       : 100
+===================================
+
+18 ene 2013 | 13:36:47,956 | INFO  | main | entities.managers.SFSBannedUserStorage |     | BanUserStorage initialized
+18 ene 2013 | 13:36:48,398 | INFO  | main | entities.managers.SFSBannedUserManager |     | BanUser data loaded: 0 records.
+18 ene 2013 | 13:36:48,872 | INFO  | main | v2.config.SFSConfigurator |     | Loading: zones\BasicExamples.zone.xml
+18 ene 2013 | 13:36:49,511 | INFO  | main | entities.managers.SFSZoneManager |     | 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ >> Zone: BasicExamples 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+18 ene 2013 | 13:36:50,453 | INFO  | main | entities.managers.SFSZoneManager |     | Creating room: (default) The Lobby
+18 ene 2013 | 13:36:50,689 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: The Lobby, Id: 0, Group: default, isGame: false ]
+18 ene 2013 | 13:36:51,207 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: AdminRoom, Id: 1, Group: default, isGame: false ]
+18 ene 2013 | 13:36:51,227 | INFO  | main | v2.core.AdminToolService |     | AdminTool Service started
+18 ene 2013 | 13:37:17,394 | INFO  | main | v2.http.SFSHttpServer |     | Http Server started.
+18 ene 2013 | 13:37:17,777 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Listening Sockets: { 127.0.0.1:9933, (Tcp) } { 127.0.0.1:9933, (Udp) } 
+18 ene 2013 | 13:37:17,779 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     |  
+ _____ _____ _____    ___ __ __ 
+|   __|   __|   __|  |_  |  |  |
+|__   |   __|__   |  |  _|-   -|
+|_____|__|  |_____|  |___|__|__|                                         
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ 2.0.1 ] 
+
+18 ene 2013 | 13:37:17,780 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | SmartFoxServer 2X (2.0.1) READY!
+18 ene 2013 | 13:45:17,718 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Boot sequence starts...
+18 ene 2013 | 13:45:17,890 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|   __|   __|   __|  |_  |  |  |  | __  |     |     |_   _|
+|__   |   __|__   |  |  _|-   -|  | __ -|  |  |  |  | | |  
+|_____|__|  |_____|  |___|__|__|  |_____|_____|_____| |_|
+
+18 ene 2013 | 13:45:22,375 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License code not found, starting Community Edition license
+18 ene 2013 | 13:45:22,375 | INFO  | main | v2.core.SFSEventManager |     | AnonymousService-1 initalized
+18 ene 2013 | 13:45:22,531 | INFO  | main | vfs.impl.DefaultFileReplicator |     | Using "C:\Windows\TEMP\vfs_cache" as temporary files store.
+18 ene 2013 | 13:45:23,562 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License loaded:
+
+===================================
+LICENSE DETAILS
+-----------------------------------
+Type            : Community Edition
+Max users       : 100
+===================================
+
+18 ene 2013 | 13:45:23,578 | INFO  | main | entities.managers.SFSBannedUserStorage |     | BanUserStorage initialized
+18 ene 2013 | 13:45:23,609 | INFO  | main | entities.managers.SFSBannedUserManager |     | BanUser data loaded: 0 records.
+18 ene 2013 | 13:45:23,671 | INFO  | main | v2.config.SFSConfigurator |     | Loading: zones\BasicExamples.zone.xml
+18 ene 2013 | 13:45:23,750 | INFO  | main | entities.managers.SFSZoneManager |     | 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ >> Zone: BasicExamples 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+18 ene 2013 | 13:45:23,843 | INFO  | main | entities.managers.SFSZoneManager |     | Creating room: (default) The Lobby
+18 ene 2013 | 13:45:23,906 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: The Lobby, Id: 0, Group: default, isGame: false ]
+18 ene 2013 | 13:45:23,968 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: AdminRoom, Id: 1, Group: default, isGame: false ]
+18 ene 2013 | 13:45:23,984 | INFO  | main | v2.core.AdminToolService |     | AdminTool Service started
+18 ene 2013 | 13:45:27,875 | INFO  | main | v2.http.SFSHttpServer |     | Http Server started.
+18 ene 2013 | 13:45:28,093 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Listening Sockets: { 127.0.0.1:9933, (Tcp) } { 127.0.0.1:9933, (Udp) } 
+18 ene 2013 | 13:45:28,093 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     |  
+ _____ _____ _____    ___ __ __ 
+|   __|   __|   __|  |_  |  |  |
+|__   |   __|__   |  |  _|-   -|
+|_____|__|  |_____|  |___|__|__|                                         
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ 2.0.1 ] 
+
+18 ene 2013 | 13:45:28,109 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | SmartFoxServer 2X (2.0.1) READY!

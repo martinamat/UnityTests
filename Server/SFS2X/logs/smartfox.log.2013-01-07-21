@@ -1,0 +1,30 @@
+07 ene 2013 | 21:02:27,948 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 18, Type: DEFAULT, Logged: No, IP: 127.0.0.1:55720 } on Server port: 9933 <---> 55720
+07 ene 2013 | 21:02:29,776 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 11, Priv: 0, Sess: 127.0.0.1:55720 ) 
+07 ene 2013 | 21:03:06,018 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 18, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:55720 }
+07 ene 2013 | 21:03:06,018 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 21:03:06,018 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 11, Priv: 0, Sess: 127.0.0.1:55720 ) 
+07 ene 2013 | 21:03:08,331 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 19, Type: DEFAULT, Logged: No, IP: 127.0.0.1:55736 } on Server port: 9933 <---> 55736
+07 ene 2013 | 21:03:08,713 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 12, Priv: 0, Sess: 127.0.0.1:55736 ) 
+07 ene 2013 | 21:03:39,541 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 19, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:55736 }
+07 ene 2013 | 21:03:39,541 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 21:03:39,541 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 12, Priv: 0, Sess: 127.0.0.1:55736 ) 
+07 ene 2013 | 21:04:25,431 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 20, Type: DEFAULT, Logged: No, IP: 127.0.0.1:55752 } on Server port: 9933 <---> 55752
+07 ene 2013 | 21:04:25,814 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 13, Priv: 0, Sess: 127.0.0.1:55752 ) 
+07 ene 2013 | 21:05:55,959 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 20, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:55752 }
+07 ene 2013 | 21:05:55,959 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 21:05:55,959 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 13, Priv: 0, Sess: 127.0.0.1:55752 ) 
+07 ene 2013 | 21:06:29,367 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 21, Type: DEFAULT, Logged: No, IP: 127.0.0.1:55772 } on Server port: 9933 <---> 55772
+07 ene 2013 | 21:06:29,726 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 14, Priv: 0, Sess: 127.0.0.1:55772 ) 
+07 ene 2013 | 21:06:31,007 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 21, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:55772 }
+07 ene 2013 | 21:06:31,007 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 21:06:31,007 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 14, Priv: 0, Sess: 127.0.0.1:55772 ) 
+07 ene 2013 | 21:09:35,611 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 22, Type: DEFAULT, Logged: No, IP: 127.0.0.1:55872 } on Server port: 9933 <---> 55872
+07 ene 2013 | 21:09:36,013 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 15, Priv: 0, Sess: 127.0.0.1:55872 ) 
+07 ene 2013 | 21:10:43,151 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 22, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:55872 }
+07 ene 2013 | 21:10:43,151 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 21:10:43,152 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 15, Priv: 0, Sess: 127.0.0.1:55872 ) 
+07 ene 2013 | 21:15:59,362 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 23, Type: DEFAULT, Logged: No, IP: 127.0.0.1:55958 } on Server port: 9933 <---> 55958
+07 ene 2013 | 21:15:59,721 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 16, Priv: 0, Sess: 127.0.0.1:55958 ) 
+07 ene 2013 | 21:16:16,659 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 23, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:55958 }
+07 ene 2013 | 21:16:16,659 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 21:16:16,659 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 16, Priv: 0, Sess: 127.0.0.1:55958 ) 

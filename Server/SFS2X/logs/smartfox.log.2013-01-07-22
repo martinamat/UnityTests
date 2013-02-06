@@ -1,0 +1,106 @@
+07 ene 2013 | 22:51:40,644 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-2 | Extensions |     | {Admin}: Restarting SmartFoxServer... 
+07 ene 2013 | 22:51:40,878 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-2 | smartfoxserver.v2.SmartFoxServer |     | *** SERVER RESTARTING ***
+07 ene 2013 | 22:51:43,082 | WARN  | SocketWriter-1 | bitswarm.core.SocketWriter |     | SocketWriter thread interrupted: Thread[SocketWriter-1,5,main]
+07 ene 2013 | 22:51:45,628 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-2 | v2.controllers.SystemController |     | Controller stopping: com.smartfoxserver.v2.controllers.SystemController, Unprocessed tasks: 0
+07 ene 2013 | 22:51:45,628 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-2 | v2.controllers.ExtensionController |     | Controller stopping: com.smartfoxserver.v2.controllers.ExtensionController, Unprocessed tasks: 0
+07 ene 2013 | 22:51:45,628 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-1 | v2.controllers.ExtensionController |     | Controller main loop was interrupted
+07 ene 2013 | 22:51:45,628 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-3 | v2.controllers.ExtensionController |     | Controller main loop was interrupted
+07 ene 2013 | 22:51:45,660 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-1 | v2.controllers.ExtensionController |     | 
+java.lang.InterruptedException
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	java.util.concurrent.PriorityBlockingQueue.take(Unknown Source)
+	com.smartfoxserver.bitswarm.controllers.AbstractController.run(AbstractController.java:95)
+	java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+
+07 ene 2013 | 22:51:45,660 | WARN  | com.smartfoxserver.v2.controllers.ExtensionController-3 | v2.controllers.ExtensionController |     | 
+java.lang.InterruptedException
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	java.util.concurrent.PriorityBlockingQueue.take(Unknown Source)
+	com.smartfoxserver.bitswarm.controllers.AbstractController.run(AbstractController.java:95)
+	java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+
+07 ene 2013 | 22:51:45,667 | WARN  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.controllers.SystemController |     | Controller main loop was interrupted
+07 ene 2013 | 22:51:45,683 | INFO  | com.smartfoxserver.v2.controllers.ExtensionController-2 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 4, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:54362 }
+07 ene 2013 | 22:51:45,691 | WARN  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.controllers.SystemController |     | 
+java.lang.InterruptedException
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	java.util.concurrent.PriorityBlockingQueue.take(Unknown Source)
+	com.smartfoxserver.bitswarm.controllers.AbstractController.run(AbstractController.java:95)
+	java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	java.lang.Thread.run(Unknown Source)
+
+07 ene 2013 | 22:51:47,761 | INFO  | :::SFSRestarter::: | v2.util.SFSRestart |     | Process restarted: java.lang.ProcessImpl@12f5047
+07 ene 2013 | 22:51:51,988 | WARN  | SFS2X ShutdownHook | v2.core.SFSShutdownHook |     | SFS2X is shutting down. The process may take a few seconds...
+07 ene 2013 | 22:51:52,089 | INFO  | Thread-0 | entities.managers.SFSZoneManager |     | BuddyList saveAll...
+07 ene 2013 | 22:51:52,144 | INFO  | Thread-1 | entities.managers.SFSBannedUserManager |     | BanUser data saved.
+07 ene 2013 | 22:51:52,464 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Boot sequence starts...
+07 ene 2013 | 22:51:52,558 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | 
+ _____ _____ _____    ___ __ __    _____ _____ _____ _____ 
+|   __|   __|   __|  |_  |  |  |  | __  |     |     |_   _|
+|__   |   __|__   |  |  _|-   -|  | __ -|  |  |  |  | | |  
+|_____|__|  |_____|  |___|__|__|  |_____|_____|_____| |_|
+
+07 ene 2013 | 22:51:55,378 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License code not found, starting Community Edition license
+07 ene 2013 | 22:51:55,386 | INFO  | main | v2.core.SFSEventManager |     | AnonymousService-1 initalized
+07 ene 2013 | 22:51:55,433 | INFO  | main | vfs.impl.DefaultFileReplicator |     | Using "C:\Windows\TEMP\vfs_cache" as temporary files store.
+07 ene 2013 | 22:51:55,753 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | License loaded:
+
+===================================
+LICENSE DETAILS
+-----------------------------------
+Type            : Community Edition
+Max users       : 100
+===================================
+
+07 ene 2013 | 22:51:55,761 | INFO  | main | entities.managers.SFSBannedUserStorage |     | BanUserStorage initialized
+07 ene 2013 | 22:51:55,808 | INFO  | main | entities.managers.SFSBannedUserManager |     | BanUser data loaded: 0 records.
+07 ene 2013 | 22:51:55,878 | INFO  | main | v2.config.SFSConfigurator |     | Loading: zones\BasicExamples.zone.xml
+07 ene 2013 | 22:51:55,957 | INFO  | main | entities.managers.SFSZoneManager |     | 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ >> Zone: BasicExamples 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+07 ene 2013 | 22:51:56,035 | INFO  | main | entities.managers.SFSZoneManager |     | Creating room: (default) The Lobby
+07 ene 2013 | 22:51:56,074 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: The Lobby, Id: 0, Group: default, isGame: false ]
+07 ene 2013 | 22:51:56,105 | INFO  | main | v2.api.SFSApi |     | Room created: [ Room: AdminRoom, Id: 1, Group: default, isGame: false ]
+07 ene 2013 | 22:51:56,113 | INFO  | main | v2.core.AdminToolService |     | AdminTool Service started
+07 ene 2013 | 22:51:59,519 | INFO  | main | v2.http.SFSHttpServer |     | Http Server started.
+07 ene 2013 | 22:51:59,957 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | Listening Sockets: { 127.0.0.1:9933, (Tcp) } { 127.0.0.1:9933, (Udp) } 
+07 ene 2013 | 22:51:59,957 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     |  
+ _____ _____ _____    ___ __ __ 
+|   __|   __|   __|  |_  |  |  |
+|__   |   __|__   |  |  _|-   -|
+|_____|__|  |_____|  |___|__|__|                                         
+ _____ _____ _____ ____  __ __ 
+| __  |   __|  _  |    \|  |  |
+|    -|   __|     |  |  |_   _|
+|__|__|_____|__|__|____/  |_|  
+[ 2.0.1 ] 
+
+07 ene 2013 | 22:51:59,957 | INFO  | main | smartfoxserver.v2.SmartFoxServer |     | SmartFoxServer 2X (2.0.1) READY!
+07 ene 2013 | 22:52:37,417 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 1, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57177 } on Server port: 9933 <---> 57177
+07 ene 2013 | 22:53:05,214 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 2, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57211 } on Server port: 9933 <---> 57211
+07 ene 2013 | 22:53:05,863 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 0, Priv: 0, Sess: 127.0.0.1:57211 ) 
+07 ene 2013 | 22:53:22,183 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 2, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:57211 }
+07 ene 2013 | 22:53:22,183 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 22:53:22,183 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 0, Priv: 0, Sess: 127.0.0.1:57211 ) 
+07 ene 2013 | 22:53:24,347 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 3, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57214 } on Server port: 9933 <---> 57214
+07 ene 2013 | 22:53:24,714 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 1, Priv: 0, Sess: 127.0.0.1:57214 ) 
+07 ene 2013 | 22:53:30,199 | INFO  | Scheduler1-thread-1 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 1, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57177 }
+07 ene 2013 | 22:53:30,199 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 4, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57215 } on Server port: 9933 <---> 57215
+07 ene 2013 | 22:54:30,202 | INFO  | SocketReader | bitswarm.core.SocketReader |     | Socket closed: java.nio.channels.SocketChannel[closed]
+07 ene 2013 | 22:54:30,202 | INFO  | Scheduler1-thread-1 | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 4, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57215 }
+07 ene 2013 | 22:56:15,416 | INFO  | SocketReader | bitswarm.sessions.DefaultSessionManager |     | Session removed: { Id: 3, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:57214 }
+07 ene 2013 | 22:56:15,416 | INFO  | SocketReader | v2.entities.SFSZone |     | User: Jojo was disconnected.
+07 ene 2013 | 22:56:15,416 | INFO  | SocketReader | v2.api.SFSApi |     | User disconnected: ( User Name: Jojo, Id: 1, Priv: 0, Sess: 127.0.0.1:57214 ) 
+07 ene 2013 | 22:56:17,306 | INFO  | SocketReader | bitswarm.core.SocketAcceptor |     | Session created: { Id: 5, Type: DEFAULT, Logged: No, IP: 127.0.0.1:57338 } on Server port: 9933 <---> 57338
+07 ene 2013 | 22:56:17,673 | INFO  | com.smartfoxserver.v2.controllers.SystemController-1 | v2.api.SFSApi |     | Login in, { Zone: BasicExamples }, ( User Name: Jojo, Id: 2, Priv: 0, Sess: 127.0.0.1:57338 ) 

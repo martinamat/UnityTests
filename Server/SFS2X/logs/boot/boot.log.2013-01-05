@@ -1,0 +1,446 @@
+05 ene 2013 | 02:19:32,760 | INFO  | main | bootLogger |     | SmartFoxServer 2X
+05 ene 2013 | 02:19:32,791 | INFO  | main | bootLogger |     | BitSwarmEngine version: 3.4.10-DBG { main }
+05 ene 2013 | 02:19:32,791 | INFO  | main | bootLogger |     | System Info:
+	Processor(s): 4
+	VM Max. memory: 259MB
+	os.name: Windows 7
+	os.arch: x86
+	os.version: 6.1
+	java.version: 1.6.0_21
+	java.vendor: Sun Microsystems Inc.
+	java.vendor.url: http://java.sun.com/
+	java.vm.specification.version: 1.0
+	java.vm.version: 17.0-b16
+	java.vm.vendor: Sun Microsystems Inc.
+	java.vm.name: Java HotSpot(TM) Client VM
+	java.io.tmpdir: C:\Windows\TEMP\
+	Default charset: UTF-8
+
+05 ene 2013 | 02:19:32,807 | INFO  | main | bootLogger |     | Network Info:
+	Card: Software Loopback Interface 1
+		 ->0:0:0:0:0:0:0:1
+		 ->127.0.0.1
+	Card: WAN Miniport (SSTP)
+	Card: WAN Miniport (L2TP)
+	Card: WAN Miniport (PPTP)
+	Card: WAN Miniport (PPPOE)
+	Card: WAN Miniport (IPv6)
+	Card: WAN Miniport (Network Monitor)
+	Card: WAN Miniport (IP)
+	Card: RAS Async Adapter
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)
+		 ->fe80:0:0:0:adbd:24c:d004:52cc%10
+	Card: Airlive WT-2000PCI
+		 ->fe80:0:0:0:f926:c70e:e493:f296%11
+		 ->192.168.1.36
+	Card: Teredo Tunneling Pseudo-Interface
+		 ->2001:0:9d38:6ab8:83b:bc7d:45c1:6392
+		 ->fe80:0:0:0:83b:bc7d:45c1:6392%12
+	Card: Adaptador 6to4 de Microsoft
+	Card: WAN Miniport (IKEv2)
+	Card: Hamachi Network Interface
+		 ->2620:9b:0:0:0:0:192d:2934
+		 ->fe80:0:0:0:98d7:2e:cf1d:e987%15
+		 ->25.45.41.52
+	Card: Adaptador ISATAP de Microsoft #3
+	Card: Adaptador ISATAP de Microsoft #4
+		 ->fe80:0:0:0:200:5efe:192d:2934%17
+	Card: Adaptador ISATAP de Microsoft
+		 ->fe80:0:0:0:0:5efe:c0a8:124%18
+	Card: Adaptador ISATAP de Microsoft #2
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-QoS Packet Scheduler-0000
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Virtual WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-QoS Packet Scheduler-0000
+	Card: WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IP)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+	Card: Hamachi Network Interface-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Native WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-WFP LightWeight Filter-0000
+
+05 ene 2013 | 02:19:32,807 | INFO  | main | bootLogger |     | Session manager ready: com.smartfoxserver.bitswarm.sessions.DefaultSessionManager@1bcf620
+05 ene 2013 | 02:19:32,823 | INFO  | main | bootLogger |     | ReaderSelector opened
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | AcceptSelector opened
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | Added bound tcp socket --> 127.0.0.1:9933
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | Added bound udp socket --> 127.0.0.1:9933
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.SystemController -- Queue: 0/20000
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.ExtensionController -- Queue: 0/20000
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | IOHandler: com.smartfoxserver.v2.protocol.SFSIoHandler@7cbd26
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | SocketReader started
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | SocketAcceptor initialized
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | Socket Writer started (pool size:1)
+05 ene 2013 | 02:19:32,838 | INFO  | Scheduler1-thread-1 | bootLogger |     | Scheduler started: scheduler
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | Security Manager started
+05 ene 2013 | 02:19:32,838 | INFO  | main | bootLogger |     | [[[ ===--- Boot sequence complete ---=== ]]]
+05 ene 2013 | 12:48:46,296 | INFO  | main | bootLogger |     | SmartFoxServer 2X
+05 ene 2013 | 12:48:46,312 | INFO  | main | bootLogger |     | BitSwarmEngine version: 3.4.10-DBG { main }
+05 ene 2013 | 12:48:46,328 | INFO  | main | bootLogger |     | System Info:
+	Processor(s): 4
+	VM Max. memory: 259MB
+	os.name: Windows 7
+	os.arch: x86
+	os.version: 6.1
+	java.version: 1.6.0_21
+	java.vendor: Sun Microsystems Inc.
+	java.vendor.url: http://java.sun.com/
+	java.vm.specification.version: 1.0
+	java.vm.version: 17.0-b16
+	java.vm.vendor: Sun Microsystems Inc.
+	java.vm.name: Java HotSpot(TM) Client VM
+	java.io.tmpdir: C:\Windows\TEMP\
+	Default charset: UTF-8
+
+05 ene 2013 | 12:48:46,328 | INFO  | main | bootLogger |     | Network Info:
+	Card: Software Loopback Interface 1
+		 ->0:0:0:0:0:0:0:1
+		 ->127.0.0.1
+	Card: WAN Miniport (SSTP)
+	Card: WAN Miniport (L2TP)
+	Card: WAN Miniport (PPTP)
+	Card: WAN Miniport (PPPOE)
+	Card: WAN Miniport (IPv6)
+	Card: WAN Miniport (Network Monitor)
+	Card: WAN Miniport (IP)
+	Card: RAS Async Adapter
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)
+		 ->fe80:0:0:0:adbd:24c:d004:52cc%10
+	Card: Airlive WT-2000PCI
+		 ->fe80:0:0:0:f926:c70e:e493:f296%11
+		 ->192.168.1.36
+	Card: Teredo Tunneling Pseudo-Interface
+		 ->2001:0:9d38:953c:417:aca1:45c1:4973
+		 ->fe80:0:0:0:417:aca1:45c1:4973%12
+	Card: Adaptador 6to4 de Microsoft
+	Card: WAN Miniport (IKEv2)
+	Card: Hamachi Network Interface
+		 ->2620:9b:0:0:0:0:192d:2934
+		 ->fe80:0:0:0:98d7:2e:cf1d:e987%15
+		 ->25.45.41.52
+	Card: Adaptador ISATAP de Microsoft #3
+	Card: Adaptador ISATAP de Microsoft #4
+		 ->fe80:0:0:0:200:5efe:192d:2934%17
+	Card: Adaptador ISATAP de Microsoft #2
+	Card: Adaptador ISATAP de Microsoft
+		 ->fe80:0:0:0:0:5efe:c0a8:124%19
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-QoS Packet Scheduler-0000
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Virtual WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-QoS Packet Scheduler-0000
+	Card: WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IP)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+	Card: Hamachi Network Interface-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Native WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-WFP LightWeight Filter-0000
+
+05 ene 2013 | 12:48:46,328 | INFO  | main | bootLogger |     | Session manager ready: com.smartfoxserver.bitswarm.sessions.DefaultSessionManager@632055
+05 ene 2013 | 12:48:46,343 | INFO  | main | bootLogger |     | ReaderSelector opened
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | AcceptSelector opened
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | Added bound tcp socket --> 127.0.0.1:9933
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | Added bound udp socket --> 127.0.0.1:9933
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.SystemController -- Queue: 0/20000
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.ExtensionController -- Queue: 0/20000
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | IOHandler: com.smartfoxserver.v2.protocol.SFSIoHandler@16fa38
+05 ene 2013 | 12:48:46,359 | INFO  | main | bootLogger |     | SocketReader started
+05 ene 2013 | 12:48:46,375 | INFO  | main | bootLogger |     | SocketAcceptor initialized
+05 ene 2013 | 12:48:46,375 | INFO  | main | bootLogger |     | Socket Writer started (pool size:1)
+05 ene 2013 | 12:48:46,375 | INFO  | Scheduler1-thread-1 | bootLogger |     | Scheduler started: scheduler
+05 ene 2013 | 12:48:46,375 | INFO  | main | bootLogger |     | Security Manager started
+05 ene 2013 | 12:48:46,375 | INFO  | main | bootLogger |     | [[[ ===--- Boot sequence complete ---=== ]]]
+05 ene 2013 | 17:04:20,161 | INFO  | main | bootLogger |     | SmartFoxServer 2X
+05 ene 2013 | 17:04:20,192 | INFO  | main | bootLogger |     | BitSwarmEngine version: 3.4.10-DBG { main }
+05 ene 2013 | 17:04:20,192 | INFO  | main | bootLogger |     | System Info:
+	Processor(s): 4
+	VM Max. memory: 259MB
+	os.name: Windows 7
+	os.arch: x86
+	os.version: 6.1
+	java.version: 1.6.0_21
+	java.vendor: Sun Microsystems Inc.
+	java.vendor.url: http://java.sun.com/
+	java.vm.specification.version: 1.0
+	java.vm.version: 17.0-b16
+	java.vm.vendor: Sun Microsystems Inc.
+	java.vm.name: Java HotSpot(TM) Client VM
+	java.io.tmpdir: C:\Windows\TEMP\
+	Default charset: UTF-8
+
+05 ene 2013 | 17:04:20,286 | INFO  | main | bootLogger |     | Network Info:
+	Card: Software Loopback Interface 1
+		 ->0:0:0:0:0:0:0:1
+		 ->127.0.0.1
+	Card: WAN Miniport (SSTP)
+	Card: WAN Miniport (L2TP)
+	Card: WAN Miniport (PPTP)
+	Card: WAN Miniport (PPPOE)
+	Card: WAN Miniport (IPv6)
+	Card: WAN Miniport (Network Monitor)
+	Card: WAN Miniport (IP)
+	Card: RAS Async Adapter
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)
+		 ->fe80:0:0:0:adbd:24c:d004:52cc%10
+	Card: Airlive WT-2000PCI
+		 ->fe80:0:0:0:f926:c70e:e493:f296%11
+		 ->192.168.1.36
+	Card: Teredo Tunneling Pseudo-Interface
+		 ->2001:0:9d38:953c:417:aca1:45c1:4973
+		 ->fe80:0:0:0:417:aca1:45c1:4973%12
+	Card: Adaptador 6to4 de Microsoft
+	Card: WAN Miniport (IKEv2)
+	Card: Hamachi Network Interface
+		 ->2620:9b:0:0:0:0:192d:2934
+		 ->fe80:0:0:0:98d7:2e:cf1d:e987%15
+		 ->25.45.41.52
+	Card: Adaptador ISATAP de Microsoft #3
+	Card: Adaptador ISATAP de Microsoft #4
+	Card: Adaptador ISATAP de Microsoft
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-QoS Packet Scheduler-0000
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Virtual WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-QoS Packet Scheduler-0000
+	Card: WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IP)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+	Card: Hamachi Network Interface-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Native WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-WFP LightWeight Filter-0000
+
+05 ene 2013 | 17:04:20,301 | INFO  | main | bootLogger |     | Session manager ready: com.smartfoxserver.bitswarm.sessions.DefaultSessionManager@553ddb
+05 ene 2013 | 17:04:20,426 | INFO  | main | bootLogger |     | ReaderSelector opened
+05 ene 2013 | 17:04:20,504 | INFO  | main | bootLogger |     | AcceptSelector opened
+05 ene 2013 | 17:04:20,504 | INFO  | main | bootLogger |     | Added bound tcp socket --> 127.0.0.1:9933
+05 ene 2013 | 17:04:20,676 | INFO  | main | bootLogger |     | Added bound udp socket --> 127.0.0.1:9933
+05 ene 2013 | 17:04:20,801 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.SystemController -- Queue: 0/20000
+05 ene 2013 | 17:04:20,801 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.ExtensionController -- Queue: 0/20000
+05 ene 2013 | 17:04:20,848 | INFO  | main | bootLogger |     | IOHandler: com.smartfoxserver.v2.protocol.SFSIoHandler@47fdc3
+05 ene 2013 | 17:04:20,848 | INFO  | main | bootLogger |     | SocketReader started
+05 ene 2013 | 17:04:20,848 | INFO  | main | bootLogger |     | SocketAcceptor initialized
+05 ene 2013 | 17:04:20,848 | INFO  | main | bootLogger |     | Socket Writer started (pool size:1)
+05 ene 2013 | 17:04:20,848 | INFO  | Scheduler1-thread-1 | bootLogger |     | Scheduler started: scheduler
+05 ene 2013 | 17:04:20,848 | INFO  | main | bootLogger |     | Security Manager started
+05 ene 2013 | 17:04:20,848 | INFO  | main | bootLogger |     | [[[ ===--- Boot sequence complete ---=== ]]]
+05 ene 2013 | 21:49:53,599 | INFO  | main | bootLogger |     | SmartFoxServer 2X
+05 ene 2013 | 21:49:53,646 | INFO  | main | bootLogger |     | BitSwarmEngine version: 3.4.10-DBG { main }
+05 ene 2013 | 21:49:53,693 | INFO  | main | bootLogger |     | System Info:
+	Processor(s): 4
+	VM Max. memory: 259MB
+	os.name: Windows 7
+	os.arch: x86
+	os.version: 6.1
+	java.version: 1.6.0_21
+	java.vendor: Sun Microsystems Inc.
+	java.vendor.url: http://java.sun.com/
+	java.vm.specification.version: 1.0
+	java.vm.version: 17.0-b16
+	java.vm.vendor: Sun Microsystems Inc.
+	java.vm.name: Java HotSpot(TM) Client VM
+	java.io.tmpdir: C:\Windows\TEMP\
+	Default charset: UTF-8
+
+05 ene 2013 | 21:49:53,740 | INFO  | main | bootLogger |     | Network Info:
+	Card: Software Loopback Interface 1
+		 ->0:0:0:0:0:0:0:1
+		 ->127.0.0.1
+	Card: WAN Miniport (SSTP)
+	Card: WAN Miniport (L2TP)
+	Card: WAN Miniport (PPTP)
+	Card: WAN Miniport (PPPOE)
+	Card: WAN Miniport (IPv6)
+	Card: WAN Miniport (Network Monitor)
+	Card: WAN Miniport (IP)
+	Card: RAS Async Adapter
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)
+		 ->fe80:0:0:0:adbd:24c:d004:52cc%10
+	Card: Airlive WT-2000PCI
+		 ->fe80:0:0:0:f926:c70e:e493:f296%11
+		 ->192.168.1.36
+	Card: Teredo Tunneling Pseudo-Interface
+		 ->2001:0:4137:9e76:3001:8d17:45c1:4973
+		 ->fe80:0:0:0:3001:8d17:45c1:4973%12
+	Card: Adaptador 6to4 de Microsoft
+	Card: WAN Miniport (IKEv2)
+	Card: Hamachi Network Interface
+		 ->2620:9b:0:0:0:0:192d:2934
+		 ->fe80:0:0:0:98d7:2e:cf1d:e987%15
+		 ->25.45.41.52
+	Card: Adaptador ISATAP de Microsoft #3
+	Card: Adaptador ISATAP de Microsoft #4
+		 ->fe80:0:0:0:200:5efe:192d:2934%17
+	Card: Adaptador ISATAP de Microsoft
+		 ->fe80:0:0:0:0:5efe:c0a8:124%18
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-QoS Packet Scheduler-0000
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Virtual WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-QoS Packet Scheduler-0000
+	Card: WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IP)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+	Card: Hamachi Network Interface-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Native WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-WFP LightWeight Filter-0000
+
+05 ene 2013 | 21:49:53,755 | INFO  | main | bootLogger |     | Session manager ready: com.smartfoxserver.bitswarm.sessions.DefaultSessionManager@1f67dee
+05 ene 2013 | 21:49:53,865 | INFO  | main | bootLogger |     | ReaderSelector opened
+05 ene 2013 | 21:49:53,943 | INFO  | main | bootLogger |     | AcceptSelector opened
+05 ene 2013 | 21:49:53,990 | INFO  | main | bootLogger |     | Added bound tcp socket --> 127.0.0.1:9933
+05 ene 2013 | 21:49:54,115 | INFO  | main | bootLogger |     | Added bound udp socket --> 127.0.0.1:9933
+05 ene 2013 | 21:49:54,193 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.SystemController -- Queue: 0/20000
+05 ene 2013 | 21:49:54,193 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.ExtensionController -- Queue: 0/20000
+05 ene 2013 | 21:49:54,208 | INFO  | main | bootLogger |     | IOHandler: com.smartfoxserver.v2.protocol.SFSIoHandler@f250f3
+05 ene 2013 | 21:49:54,208 | INFO  | main | bootLogger |     | SocketReader started
+05 ene 2013 | 21:49:54,208 | INFO  | main | bootLogger |     | SocketAcceptor initialized
+05 ene 2013 | 21:49:54,208 | INFO  | main | bootLogger |     | Socket Writer started (pool size:1)
+05 ene 2013 | 21:49:54,208 | INFO  | Scheduler1-thread-1 | bootLogger |     | Scheduler started: scheduler
+05 ene 2013 | 21:49:54,208 | INFO  | main | bootLogger |     | Security Manager started
+05 ene 2013 | 21:49:54,208 | INFO  | main | bootLogger |     | [[[ ===--- Boot sequence complete ---=== ]]]
+05 ene 2013 | 21:54:32,361 | INFO  | main | bootLogger |     | SmartFoxServer 2X
+05 ene 2013 | 21:54:32,392 | INFO  | main | bootLogger |     | BitSwarmEngine version: 3.4.10-DBG { main }
+05 ene 2013 | 21:54:32,439 | INFO  | main | bootLogger |     | System Info:
+	Processor(s): 4
+	VM Max. memory: 259MB
+	os.name: Windows 7
+	os.arch: x86
+	os.version: 6.1
+	java.version: 1.6.0_21
+	java.vendor: Sun Microsystems Inc.
+	java.vendor.url: http://java.sun.com/
+	java.vm.specification.version: 1.0
+	java.vm.version: 17.0-b16
+	java.vm.vendor: Sun Microsystems Inc.
+	java.vm.name: Java HotSpot(TM) Client VM
+	java.io.tmpdir: C:\Windows\TEMP\
+	Default charset: UTF-8
+
+05 ene 2013 | 21:54:32,517 | INFO  | main | bootLogger |     | Network Info:
+	Card: Software Loopback Interface 1
+		 ->0:0:0:0:0:0:0:1
+		 ->127.0.0.1
+	Card: WAN Miniport (SSTP)
+	Card: WAN Miniport (L2TP)
+	Card: WAN Miniport (PPTP)
+	Card: WAN Miniport (PPPOE)
+	Card: WAN Miniport (IPv6)
+	Card: WAN Miniport (Network Monitor)
+	Card: WAN Miniport (IP)
+	Card: RAS Async Adapter
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)
+		 ->fe80:0:0:0:adbd:24c:d004:52cc%10
+	Card: Airlive WT-2000PCI
+		 ->fe80:0:0:0:f926:c70e:e493:f296%11
+		 ->192.168.1.34
+	Card: Teredo Tunneling Pseudo-Interface
+		 ->2001:0:9d38:6ab8:2428:96d2:414d:40e3
+		 ->fe80:0:0:0:2428:96d2:414d:40e3%12
+	Card: Adaptador 6to4 de Microsoft
+	Card: WAN Miniport (IKEv2)
+	Card: Hamachi Network Interface
+		 ->2620:9b:0:0:0:0:192d:2934
+		 ->fe80:0:0:0:98d7:2e:cf1d:e987%15
+		 ->25.45.41.52
+	Card: Adaptador ISATAP de Microsoft #3
+	Card: Adaptador ISATAP de Microsoft #4
+		 ->fe80:0:0:0:200:5efe:192d:2934%17
+	Card: Adaptador ISATAP de Microsoft #2
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-QoS Packet Scheduler-0000
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Virtual WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-QoS Packet Scheduler-0000
+	Card: WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IP)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+	Card: Hamachi Network Interface-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Native WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-WFP LightWeight Filter-0000
+	Card: Adaptador ISATAP de Microsoft
+		 ->fe80:0:0:0:0:5efe:c0a8:122%29
+
+05 ene 2013 | 21:54:32,626 | INFO  | main | bootLogger |     | Session manager ready: com.smartfoxserver.bitswarm.sessions.DefaultSessionManager@786119
+05 ene 2013 | 21:54:32,767 | INFO  | main | bootLogger |     | ReaderSelector opened
+05 ene 2013 | 21:54:32,892 | INFO  | main | bootLogger |     | AcceptSelector opened
+05 ene 2013 | 21:54:32,923 | INFO  | main | bootLogger |     | Added bound tcp socket --> 127.0.0.1:9933
+05 ene 2013 | 21:54:33,126 | INFO  | main | bootLogger |     | Added bound udp socket --> 127.0.0.1:9933
+05 ene 2013 | 21:54:33,220 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.SystemController -- Queue: 0/20000
+05 ene 2013 | 21:54:33,220 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.ExtensionController -- Queue: 0/20000
+05 ene 2013 | 21:54:33,236 | INFO  | main | bootLogger |     | IOHandler: com.smartfoxserver.v2.protocol.SFSIoHandler@4e63f9
+05 ene 2013 | 21:54:33,236 | INFO  | main | bootLogger |     | SocketReader started
+05 ene 2013 | 21:54:33,251 | INFO  | main | bootLogger |     | SocketAcceptor initialized
+05 ene 2013 | 21:54:33,251 | INFO  | main | bootLogger |     | Socket Writer started (pool size:1)
+05 ene 2013 | 21:54:33,251 | INFO  | Scheduler1-thread-1 | bootLogger |     | Scheduler started: scheduler
+05 ene 2013 | 21:54:33,251 | INFO  | main | bootLogger |     | Security Manager started
+05 ene 2013 | 21:54:33,251 | INFO  | main | bootLogger |     | [[[ ===--- Boot sequence complete ---=== ]]]
+05 ene 2013 | 23:56:45,448 | INFO  | main | bootLogger |     | SmartFoxServer 2X
+05 ene 2013 | 23:56:45,448 | INFO  | main | bootLogger |     | BitSwarmEngine version: 3.4.10-DBG { main }
+05 ene 2013 | 23:56:45,448 | INFO  | main | bootLogger |     | System Info:
+	Processor(s): 4
+	VM Max. memory: 259MB
+	os.name: Windows 7
+	os.arch: x86
+	os.version: 6.1
+	java.version: 1.6.0_21
+	java.vendor: Sun Microsystems Inc.
+	java.vendor.url: http://java.sun.com/
+	java.vm.specification.version: 1.0
+	java.vm.version: 17.0-b16
+	java.vm.vendor: Sun Microsystems Inc.
+	java.vm.name: Java HotSpot(TM) Client VM
+	java.io.tmpdir: C:\Windows\TEMP\
+	Default charset: UTF-8
+
+05 ene 2013 | 23:56:45,463 | INFO  | main | bootLogger |     | Network Info:
+	Card: Software Loopback Interface 1
+		 ->0:0:0:0:0:0:0:1
+		 ->127.0.0.1
+	Card: WAN Miniport (SSTP)
+	Card: WAN Miniport (L2TP)
+	Card: WAN Miniport (PPTP)
+	Card: WAN Miniport (PPPOE)
+	Card: WAN Miniport (IPv6)
+	Card: WAN Miniport (Network Monitor)
+	Card: WAN Miniport (IP)
+	Card: RAS Async Adapter
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)
+		 ->fe80:0:0:0:adbd:24c:d004:52cc%10
+	Card: Airlive WT-2000PCI
+		 ->fe80:0:0:0:f926:c70e:e493:f296%11
+		 ->192.168.1.36
+	Card: Teredo Tunneling Pseudo-Interface
+		 ->2001:0:9d38:953c:cdf:9532:45c1:4973
+		 ->fe80:0:0:0:cdf:9532:45c1:4973%12
+	Card: Adaptador 6to4 de Microsoft
+	Card: WAN Miniport (IKEv2)
+	Card: Hamachi Network Interface
+		 ->2620:9b:0:0:0:0:192d:2934
+		 ->fe80:0:0:0:98d7:2e:cf1d:e987%15
+		 ->25.45.41.52
+	Card: Adaptador ISATAP de Microsoft #3
+	Card: Adaptador ISATAP de Microsoft #4
+		 ->fe80:0:0:0:200:5efe:192d:2934%17
+	Card: Adaptador ISATAP de Microsoft
+		 ->fe80:0:0:0:0:5efe:c0a8:124%18
+	Card: Adaptador ISATAP de Microsoft #2
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-QoS Packet Scheduler-0000
+	Card: NIC de Gigabit de Ethernet PCI-E de la familia Realtek RTL8168C(P)/8111C(P) (NDIS 6.20)-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Virtual WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-QoS Packet Scheduler-0000
+	Card: WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IP)-QoS Packet Scheduler-0000
+	Card: WAN Miniport (IPv6)-QoS Packet Scheduler-0000
+	Card: Hamachi Network Interface-WFP LightWeight Filter-0000
+	Card: Airlive WT-2000PCI-Native WiFi Filter Driver-0000
+	Card: Airlive WT-2000PCI-WFP LightWeight Filter-0000
+
+05 ene 2013 | 23:56:45,479 | INFO  | main | bootLogger |     | Session manager ready: com.smartfoxserver.bitswarm.sessions.DefaultSessionManager@5f849b
+05 ene 2013 | 23:56:45,510 | INFO  | main | bootLogger |     | ReaderSelector opened
+05 ene 2013 | 23:56:45,557 | INFO  | main | bootLogger |     | AcceptSelector opened
+05 ene 2013 | 23:56:45,557 | INFO  | main | bootLogger |     | Added bound tcp socket --> 127.0.0.1:9933
+05 ene 2013 | 23:56:45,651 | INFO  | main | bootLogger |     | Added bound udp socket --> 127.0.0.1:9933
+05 ene 2013 | 23:56:45,682 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.SystemController -- Queue: 0/20000
+05 ene 2013 | 23:56:45,682 | INFO  | main | bootLogger |     | Controller started: com.smartfoxserver.v2.controllers.ExtensionController -- Queue: 0/20000
+05 ene 2013 | 23:56:45,682 | INFO  | main | bootLogger |     | IOHandler: com.smartfoxserver.v2.protocol.SFSIoHandler@ec34fb
+05 ene 2013 | 23:56:45,682 | INFO  | main | bootLogger |     | SocketReader started
+05 ene 2013 | 23:56:45,682 | INFO  | main | bootLogger |     | SocketAcceptor initialized
+05 ene 2013 | 23:56:45,698 | INFO  | main | bootLogger |     | Socket Writer started (pool size:1)
+05 ene 2013 | 23:56:45,698 | INFO  | Scheduler1-thread-1 | bootLogger |     | Scheduler started: scheduler
+05 ene 2013 | 23:56:45,698 | INFO  | main | bootLogger |     | Security Manager started
+05 ene 2013 | 23:56:45,698 | INFO  | main | bootLogger |     | [[[ ===--- Boot sequence complete ---=== ]]]
